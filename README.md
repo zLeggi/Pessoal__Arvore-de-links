@@ -1,9 +1,11 @@
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio
+
+## Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](img/readme.PNG)
 
-## Ferramentas utilizadas:
+### Ferramentas utilizadas:
 
 * HTML
 
